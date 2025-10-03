@@ -58,7 +58,8 @@ The dashboard consists of two main sections:
 - **Data Sources**: Online course dataset (platform unspecified)
 
 ## 📷 Screenshots
-
+[online course report2](https://github.com/user-attachments/assets/535602ce-4beb-4911-8920-5d83334f589e)
+[udemy.csv](https://github.com/user-attachments/files/22686045/udemy.csv)![online course report](https://github.com/user-attachments/assets/f9afa973-63de-416d-abfd-8bc34057f533)
 ### Overview Page
 ![Overview](./online%20course%20report.jpg)
 
@@ -69,8 +70,7 @@ The dashboard consists of two main sections:
 
 1. Clone the repository.
 2. Open the dashboard file in Power BI or your preferred BI tool.
-3. Interact with the visuals and filters to explore trends.![online course report2](https://github.com/user-attachments/assets/535602ce-4beb-4911-8920-5d83334f589e)
-[udemy.csv](https://github.com/user-attachments/files/22686045/udemy.csv)![online course report](https://github.com/user-attachments/assets/f9afa973-63de-416d-abfd-8bc34057f533)
+3. Interact with the visuals and filters to explore trends.!
 
 
 ## 📌 License
